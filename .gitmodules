@@ -1,0 +1,3 @@
+[submodule "procedural-gl-js"]
+	path = procedural-gl-js
+	url = https://github.com/felixpalmer/procedural-gl-js.git
